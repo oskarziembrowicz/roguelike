@@ -26,6 +26,6 @@ Ewentualnie ludzie, którzy usiłują przetrwać w porzucownym bunkrze, lub band
 * Różni przeciwnicy będą zachowywać się w różny sposób. Jedni mogą pozostać w tym samym miejscu, inni mogą eksplorować a jeszcze inni będą śledzić gracza. Z potencjalnymi ludźmi być może da się dogadać.
 
 #### **Pozostałe:**
-* [ ] Dobrze zadbać o proste dźwięki, zwłaszcza takie budujące klimat i suspens.
+* Dobrze zadbać o proste dźwięki, zwłaszcza takie budujące klimat i suspens.
 
 
